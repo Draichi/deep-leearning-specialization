@@ -9,3 +9,4 @@
 
 - Improving Deep Neural Networks
   - [Neural Networks Initialization](./neural_network_initialization.ipynb)
+  - [Neural Networks Regularization](./neural_networks_regularization.ipynb)
