@@ -11,3 +11,4 @@
   - [Neural Networks Initialization](./neural_network_initialization.ipynb)
   - [Neural Networks Regularization](./neural_networks_regularization.ipynb)
   - [Gradient Checking](./Gradient_Checking.ipynb)
+  - [Optimization Methods](./Optimization_methods.ipynb)
