@@ -16,3 +16,6 @@
 
 - Structuring Machine Learning Projects
   - [Introduction to TensorFlow](./Tensorflow_introduction.ipynb)
+
+- NLP Sequence Models
+  - [Building a Recurrent Neural Network Step by Step](./Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
