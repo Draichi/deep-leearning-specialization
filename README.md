@@ -1,6 +1,6 @@
 # Deep Learning Specialization
 
-## Summary
+## Table of Contents
 
 - Deep Learning and Neural Networks
 
