@@ -25,3 +25,4 @@
   - [Operations on Word Vectors](./Operations_on_word_vectors_v2a.ipynb)
   - [Emojify](./Emoji_v3a.ipynb)
   - [Neural Machine Translation](./Neural_machine_translation_with_attention_v4a.ipynb)
+  - [Trigger Word Detection](./Trigger_word_detection_v2a.ipynb)
