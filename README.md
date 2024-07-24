@@ -26,3 +26,4 @@
   - [Emojify](./Emoji_v3a.ipynb)
   - [Neural Machine Translation](./Neural_machine_translation_with_attention_v4a.ipynb)
   - [Trigger Word Detection](./Trigger_word_detection_v2a.ipynb)
+  - [Transformer Network](./C5_W4_A1_Transformer_Subclass_v1.ipynb)
