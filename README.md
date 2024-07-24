@@ -27,3 +27,6 @@
   - [Neural Machine Translation](./Neural_machine_translation_with_attention_v4a.ipynb)
   - [Trigger Word Detection](./Trigger_word_detection_v2a.ipynb)
   - [Transformer Network](./C5_W4_A1_Transformer_Subclass_v1.ipynb)
+  - [Transformer Pre-processing](./Embedding_plus_Positional_encoding.ipynb)
+  - [Transformer Network Application: Named-Entity Recognition](./Transformer_application_Named_Entity_Recognition.ipynb)
+  - [Transformer Network Application: Question Answering](./QA_dataset.ipynb)
