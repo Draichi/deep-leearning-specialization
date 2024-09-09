@@ -9,14 +9,14 @@
 
 - Improving Deep Neural Networks
 
-  - [Neural Networks Initialization](./neural_network_initialization.ipynb)
-  - [Neural Networks Regularization](./neural_networks_regularization.ipynb)
-  - [Gradient Checking](./Gradient_Checking.ipynb)
-  - [Optimization Methods](./Optimization_methods.ipynb)
+  - [Neural Networks Initialization](./deep_learning_fundamentals/neural_network_initialization.ipynb)
+  - [Neural Networks Regularization](./deep_learning_fundamentals/neural_networks_regularization.ipynb)
+  - [Gradient Checking](./deep_learning_fundamentals/Gradient_Checking.ipynb)
+  - [Optimization Methods](./deep_learning_fundamentals/Optimization_methods.ipynb)
 
 - Structuring Machine Learning Projects
 
-  - [Introduction to TensorFlow](./Tensorflow_introduction.ipynb)
+  - [Introduction to TensorFlow](./deep_learning_fundamentals/Tensorflow_introduction.ipynb)
 
 - Convolutional Neural Network
 
