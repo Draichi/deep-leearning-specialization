@@ -38,3 +38,4 @@
   - [Transformer Network Application: Named-Entity Recognition](./Transformer_application_Named_Entity_Recognition.ipynb)
   - [Transformer Network Application: Question Answering](./QA_dataset.ipynb)
   - [Autonomous Driving: Car Detection](./convolutional_neural_networks/Autonomous_driving_application_Car_detection.ipynb)
+- [Image Segmentation - U-Net](./convolutional_neural_networks/Image_segmentation_Unet_v2.ipynb)
