@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- Deep Learning and Neural Networks
+- Deep Learning and Neural Networks Fundamentals
 
-  - [Building_your_Deep_Neural_Network_Step_by_Step](./Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-  - [Deep Neural Network - Application](./deep_neural_network_application.ipynb)
+  - [Building your Deep Neural Network Step by Step](./deep_learning_fundamentals/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [Deep Neural Network - Application](./deep_learning_fundamentals/deep_neural_network_application.ipynb)
 
 - Improving Deep Neural Networks
 
