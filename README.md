@@ -37,3 +37,4 @@
   - [Transformer Pre-processing](./Embedding_plus_Positional_encoding.ipynb)
   - [Transformer Network Application: Named-Entity Recognition](./Transformer_application_Named_Entity_Recognition.ipynb)
   - [Transformer Network Application: Question Answering](./QA_dataset.ipynb)
+  - [Autonomous Driving: Car Detection](./convolutional_neural_networks/Autonomous_driving_application_Car_detection.ipynb)
