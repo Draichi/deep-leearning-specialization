@@ -26,6 +26,8 @@
   - [Transfer Learning with MobileNet](./convolutional_neural_networks/Transfer_learning_with_MobileNet_v1.ipynb)
   - [Autonomous Driving: Car Detection](./convolutional_neural_networks/Autonomous_driving_application_Car_detection.ipynb)
   - [Image Segmentation - U-Net](./convolutional_neural_networks/Image_segmentation_Unet_v2.ipynb)
+  - [Face Recognition](./convolutional_neural_networks/Face_Recognition.ipynb)
+  - [Art Generation with Neural Style Transfer](./convolutional_neural_networks/Art_Generation_with_Neural_Style_Transfer.ipynb)
 
 - NLP Sequence Models
   - [Building a Recurrent Neural Network Step by Step](./nlp_sequence_models/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
